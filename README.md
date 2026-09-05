@@ -1,4 +1,4 @@
- DevOps Assignment - Group [Group Number]
+ DevOps Assignment - Group [07]
 
 ## 📌 Group Details
 - Group Name / Number: Group [07]
